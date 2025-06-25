@@ -6,16 +6,89 @@ title: "Week #3"
 
 ## Implemented MVP features
 
-...
+## 🧭 **User Journey Overview**
+
+#### 👤 1. **Registration, Authentication and Password Recovery**
+
+- User opens the app
+- Navigates to the registration screen
+- Enters email and password
+- Confirms registration via email code
+- Later, user can tap Forgot password:
+  - Requests a password reset via email
+  - Sets a new password and logs in again
+
+✅ Related artefacts:
+- [Frotend](https://github.com/IU-Capstone-Project-2025/Smartify/issues/13)
+- [Backend (Registration and Authentication)](https://github.com/IU-Capstone-Project-2025/Smartify/issues/16)
+- [Backend (Password Recovery)](https://github.com/IU-Capstone-Project-2025/Smartify/issues/18)
+
+---
+
+#### 🏠 2. **Home Screen**
+
+- After logging in, user sees the home page with an overview of functionality
+- Home includes access to:
+  - University search
+  - Questionnaire
+  - Progress tracking
+  - Profile settings
+
+✅ Related artefacts:
+- [Design](https://github.com/IU-Capstone-Project-2025/Smartify/issues/49)
+- [Frontend](https://github.com/IU-Capstone-Project-2025/Smartify/issues/53)
+
+---
+
+#### 🔍 3. **University Search Page**
+
+- User opens Search University page
+- Can:
+  - Search by name
+  - Apply filters
+  - View matching universities
+
+✅ Related artefacts:
+- [Design](https://github.com/IU-Capstone-Project-2025/Smartify/issues/12)
+- [Frontend](https://github.com/IU-Capstone-Project-2025/Smartify/issues/14)
+
+---
+
+#### 📝 4. **Questionnaire**
+
+- User opens the questionnaire
+- Answers a series of structured questions
+- Submits the questionnaire
+- Server receives and saves the data
+
+✅ Related artefacts:
+- [Design](https://github.com/IU-Capstone-Project-2025/Smartify/issues/49)
+- [Frontend](https://github.com/IU-Capstone-Project-2025/Smartify/issues/55)
+- [Backend](https://github.com/IU-Capstone-Project-2025/Smartify/issues/58)
+
+---
+
+#### 📆 5. **Progress Tracking Page**
+
+- User visits progress screen**
+- Can:
+  - Add personal learning or career goals
+  - Set time for each task
+  - View progress or daily schedule
+
+✅ Related artefacts:
+- [Design](https://github.com/IU-Capstone-Project-2025/Smartify/issues/12)
+- [Frontend](https://github.com/IU-Capstone-Project-2025/Smartify/issues/62)
+
+---
 
 ## Demonstration of the working MVP
 
-Link - ...
+Link - [Google Disk](https://drive.google.com/file/d/151nhpK6KhIyqQk9jXJx20fANeS7_gvnI/view)
 
 # Weekly commitments
 
 ## Individual contribution of each participant
-
 
 ## 🎨 UX/UI
 
