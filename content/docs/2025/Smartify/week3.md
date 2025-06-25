@@ -97,9 +97,9 @@ Responsible - **Kuchukbaeva Regina**
  - User profile page
  - The ЕГЭ preparation tracker page
 
-https://www.figma.com/design/7D72pnxGyyRk9lh58vzCFY/INFO-UNIVERSITIES?node-id=0-1&p=f
-
-https://github.com/IU-Capstone-Project-2025/Smartify/issues/49
+✅ Related artefacts:
+- [Figma](https://www.figma.com/design/7D72pnxGyyRk9lh58vzCFY/INFO-UNIVERSITIES?node-id=0-1&p=f)
+- [Issue](https://github.com/IU-Capstone-Project-2025/Smartify/issues/49)
 
 ## 💻 Frontend
 
@@ -123,7 +123,8 @@ Responsible - **Chugaeva Mariia** and **Zakirov Karim**
   - Tasks can be edited and marked as completed
   - The overall completion percentage is visualized with a CircularPercentIndicator
 
-https://github.com/IU-Capstone-Project-2025/Smartify/pull/64
+✅ Related artefacts:
+- [PR](https://github.com/IU-Capstone-Project-2025/Smartify/pull/64)
 
 ## 🛠️ Backend
 
@@ -138,7 +139,8 @@ Responsible - **Mayorov Daniil** and **Antipov Alexey**
  - Functions for adding and updating universities, questionnaires, and professions with appropriate checks
  - On the client side, a function for collecting a questionnaire and sending it via the API
 
-https://github.com/IU-Capstone-Project-2025/Smartify/pull/66
+✅ Related artefacts:
+- [PR](https://github.com/IU-Capstone-Project-2025/Smartify/pull/66)
 
 ## 🤖 ML
 
@@ -148,10 +150,11 @@ Responsible - **Andruwenko Valery**
  - The determine_mbti() function has been written, which returns the personality type and is embedded in the database processing script
  - Сollected and structured descriptions of all 16 MBTI types
  - A new dataset_with_mbti_descriptions.json database has been created
- - Сonducted a user survey among schoolchildren
+ - Сonducted a user questionnaire among schoolchildren
 
-https://github.com/IU-Capstone-Project-2025/Smartify/pull/69
-https://docs.google.com/forms/d/1Ji5ww8OqN9WK-KvSsFbEP0bQxo4Id6vv4m_Zv_A0dhs/edit#responses
+✅ Related artefacts:
+- [PR](https://github.com/IU-Capstone-Project-2025/Smartify/pull/69)
+- [Questionnaire](https://docs.google.com/forms/d/1Ji5ww8OqN9WK-KvSsFbEP0bQxo4Id6vv4m_Zv_A0dhs/edit#responses)
 
 ## 📥 Project Management 
 
@@ -161,7 +164,8 @@ Responsible - **Basanov Maxim**
  - GitHub repositories, Backlog and all documentation maintaining
  - This report writing
 
-https://github.com/orgs/IU-Capstone-Project-2025/projects/2
+✅ Related artefacts:
+- [Backlog](https://github.com/orgs/IU-Capstone-Project-2025/projects/2)
 
 
 
