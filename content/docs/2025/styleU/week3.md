@@ -89,6 +89,12 @@ Plan: **[developing](https://drive.google.com/file/d/1yrGUk3QLkkxuMQcBVimMRm0i0K
 Some team members attended Lyubov Kosvintseva's lecture
 and then we prepared a presentation about the project, discussed it with her and received feedback: **[presentation](https://drive.google.com/file/d/1_f2y4QOsi8LPJtHRpK8-9094hp-FSVyu/view?usp=share_link)**
 
+## 5. ML
+
+Initially, due to the lack of a dataset with labeled data, my team and I tried to cluster images using the CLIP model [link](https://github.com/IU-Capstone-Project-2025/styleU/blob/main/ml/color_type_clip/data.ipynb) to transform them into embeddings. This did not yield significant results, but allowed us to create an initial markup, which we subsequently corrected. We decided to mark the data manually, adjusting the CLIP results [link](https://github.com/IU-Capstone-Project-2025/styleU/tree/main/ml/color_type_clip/clustered_by_color_type_manually_cleaned_without_augmentation) there were about 700 photos, to make the dataset larger, augmentation was applied and it turned out to increase the amount of data by 5 times [link](https://github.com/IU-Capstone-Project-2025/styleU/blob/main/ml/color_type_clip/data_augmentation.ipynb). Using this data, a CNN model was trained [link](https://github.com/IU-Capstone-Project-2025/styleU/blob/main/ml/color_type_clip/cnn.ipynb), but it did not give good results because it is aimed at selecting objects from a photo, and the task is to recognize colors. Based on these findings, it was decided to take a simpler model and pay more attention to color features in converting photos into data: this gave a result of 93% accuracy [link](https://github.com/IU-Capstone-Project-2025/styleU/blob/a243707784838c6b4baed22784279e0ae19eb442/ml/color_type_clip/random_forest.ipynb)
+To improve the accuracy on test data, we assumed that the background in the photo could cause noise, but after testing this hypothesis, it turned out that this only worsened the model's performance [link](https://github.com/IU-Capstone-Project-2025/styleU/blob/main/ml/color_type_clip/random_forest.ipynb)
+
+
 ## 5. Internal demo
 
 We will condact internal demo this thursday
