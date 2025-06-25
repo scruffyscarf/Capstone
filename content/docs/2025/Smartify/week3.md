@@ -182,6 +182,11 @@ Responsible - **Basanov Maxim**
 - Complete the implementation of the Professions Page
 - Implement the tracker page
 - Adapt the design to meet new requirements
+- Refine the tracker's design
+- Finalize the design of the university page
+- Supplement the database with universities with missing data 
+- Create a tab with the top of universities
+- Add a detailed description of the universities
 
 ### 🛠️ Backend
 
