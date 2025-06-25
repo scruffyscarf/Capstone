@@ -60,6 +60,10 @@ Responsible - **Mayorov Daniil** and **Antipov Alexey**
  - Fixed the issue of freezing when sending emails
  - Added a client-side API for working with tokens (not yet connected to the main application)
  - Implement mongo for questionnaire
+ - MongoDB service is connected and linked to MongoDB Compass for database interaction
+ - The MongoDB connection function to the Go server
+ - Functions for adding and updating universities, questionnaires, and professions with appropriate checks
+ - On the client side, a function for collecting a questionnaire and sending it via the API
 
 https://github.com/IU-Capstone-Project-2025/Smartify/pull/66
 
@@ -108,10 +112,6 @@ https://github.com/orgs/IU-Capstone-Project-2025/projects/2
  - Implement automatic login
  - Set up mail upload in the application
  - Implement the saving of the user questionnaire
- - MongoDB service is connected and linked to MongoDB Compass for database interaction
- - The MongoDB connection function to the Go server
- - Functions for adding and updating universities, questionnaires, and professions with appropriate checks
- - On the client side, a function for collecting a questionnaire and sending it via the API
 
 ### 🛠️ ML
 
