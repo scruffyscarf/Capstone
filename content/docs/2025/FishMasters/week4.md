@@ -52,6 +52,7 @@ Some of the challenges faced during CI/CD setup included:
 - [Checker for PR in main (it is allowed only from stage)](https://github.com/IU-Capstone-Project-2025/FishMasters/blob/main/.github/workflows/branch-checker.yaml)
 - [Deployment by button for STAGE](https://github.com/IU-Capstone-Project-2025/FishMasters/blob/main/.github/workflows/deploy-stage.yaml)
 - [Deployment by button for PROD](https://github.com/IU-Capstone-Project-2025/FishMasters/blob/main/.github/workflows/deploy-prod.yaml)
+- [Java CI](https://github.com/IU-Capstone-Project-2025/FishMasters/blob/stage/.github/workflows/java-tests.yaml)
 
 ### Staging
 - From now on, a dedicated staging environment has been introduced for pre-production testing.
