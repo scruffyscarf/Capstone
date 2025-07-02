@@ -23,6 +23,8 @@ We deside to make an outfit generator, which will use info from user and return 
 
  **[commit](https://github.com/IU-Capstone-Project-2025/styleU/commit/cac282025c08080209d4d595c6c3c09fa5e8c1a8)** - parser
 
+ **[commit](https://github.com/IU-Capstone-Project-2025/styleU/commit/246a563c585445c1adedbdd2fa88fdb9e5ce4698)** - fix: update styleU-39 — filters and generation of outfits
+
 3) Aisylu Fattakhova - connecting LLM, solve issues with ollama, connect backend & llm service
 
  **[commit](https://github.com/IU-Capstone-Project-2025/styleU/commit/1a99d9e94f5abc70f772d04b92e67679e744530d)** - added llm response for colortype
@@ -33,6 +35,8 @@ We deside to make an outfit generator, which will use info from user and return 
 4) Ekaterina Akimenko - make disign for user page and for generating outfit page
 
 **[figma](https://www.figma.com/design/VHOnHId7DlFbgjnn46NGUW/StyleU?node-id=264-642&p=f&t=gCvHPYU3fUZRpDAT-0)** - design
+
+**[commit](https://github.com/IU-Capstone-Project-2025/styleU/commit/ae3ef863de35d46910b9982c421f3c6cde5a317f)** - Translated to russian, connected to backend.
 
 
 5) Sofia Goryunova - trained the model for the color type, organize meating with ml specialist
@@ -47,6 +51,8 @@ We deside to make an outfit generator, which will use info from user and return 
 7) Rokkel Maria - write frontend pages
 
 **[figma](https://www.figma.com/design/VHOnHId7DlFbgjnn46NGUW/StyleU?node-id=264-642&p=f&t=gCvHPYU3fUZRpDAT-0)** - design
+
+**[commit](https://github.com/IU-Capstone-Project-2025/styleU/commit/97dbfcda1c782f66055bc037ad6ced3fce505f53)** - frontend and backend connection
 
 ## 4. Plan for Next Week
 
