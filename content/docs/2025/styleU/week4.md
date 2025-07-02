@@ -15,7 +15,7 @@ We deside to make an outfit generator, which will use info from user and return 
 
  **[scheme](https://drive.google.com/file/d/18zx3yvtUc9hTXdCOx2r6MMmRYbQ_embg/view?usp=sharing)**
 
-## 2. Individual contribution of each participant
+## 3. Individual contribution of each participant
 
 1) Ksenia Korchagina (lead) - prepare tasks for next features, brainstorming futute features, writing a report, start deploying & creating ci/cd
 
