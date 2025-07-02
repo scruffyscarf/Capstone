@@ -32,7 +32,7 @@ We deside to make an outfit generator, which will use info from user and return 
  **[commit](https://github.com/IU-Capstone-Project-2025/styleU/commit/827d7baf62bdaea3d62e024369db437b06c02e17)**
 
 
-4) Ekaterina Akimenko - make disign for user page and for generating outfit page
+4) Ekaterina Akimenko - make disign for user page and for generating outfit page, write frontend
 
 **[figma](https://www.figma.com/design/VHOnHId7DlFbgjnn46NGUW/StyleU?node-id=264-642&p=f&t=gCvHPYU3fUZRpDAT-0)** - design
 
