@@ -280,10 +280,53 @@ Using Cursor with the Figma MCP delivered a noticeable productivity increase for
 
 ## Plan for Next Week
 
-*...*
+## Frontend
+- Integrate QuickSync in Projects Dashboard
+- Finalize Chats, Invitations, Profile Edit, and Projects pages
+- Add loading states and error handling
+- Refactor components for clarity
+- Add basic end-to-end tests
+
+---
+
+## Backend
+- Finalize endpoints: Invitations, Chats, Profile Edit
+- Connect backend with ML QuickSync service
+- Add integration tests for matching flow
+- Improve validation and error handling
+
+---
+
+## Machine Learning
+- Finish Docker setup for ML inference
+- Finalize API for user matching
+- Optimize embedding speed
+- Test responses with frontend
+
+---
+
+## DevOps
+- Add ML service to Docker Compose
+- Add health checks to all services
+- Improve GitHub Actions for build/test
+
+---
+
+## CustDev
+- Collect feedback from early users
+- Validate matching results and onboarding flow
+- Plan final feedback survey
+
+---
+
+## Product & Design
+- Finalize UI for QuickSync and Profile Edit
+- Review product flow across mobile & desktop
+- Support usability testing
+
 
 ## Confirmation of the code's operability
 
 We confirm that the code in the main branch:
-- [ ] In working condition.
-- [ ] Run via docker-compose (or another alternative described in the `README.md`).
+- [**✔**] In working condition.
+- [**✔**] Run via docker-compose (or another alternative described in the `README.md`).
