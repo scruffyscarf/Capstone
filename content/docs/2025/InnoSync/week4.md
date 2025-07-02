@@ -251,7 +251,7 @@ Using Cursor with the Figma MCP delivered a noticeable productivity increase for
 
 
 - **Egor Lazutkin:**
-    - Did the Formulation and prioritisation of hypotheses for preparation for user testing [View Docs](https://docs.google.com/document/d/1rc2LE3dhGeFhPJU2gy640NaoJaA4k-TjfdgD8CtgQzk/edit?tab=t.0)
+    - Did the Formulation and prioritisation of hypotheses for preparation for user testing [View Docs](https://docs.google.com/document/d/10H6Tt8v1NovJBdq7HSrb2DaduyOAHK03A5K8UY2sXyw/edit?tab=t.0)
 
 - **Asgat Keruly:**
     - Endpoint Connection for Logout [View Commit](https://github.com/IU-Capstone-Project-2025/InnoSync/commit/e39bfe12b8b5ba21e0dad82c4f597fb7cd6fce2b)
