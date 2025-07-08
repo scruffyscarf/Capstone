@@ -91,6 +91,8 @@ We conducted additional experiments comparing different embedding models:
 
     * Conducted user interviews and processed feedback.
     * Prepared the application setup documentation.
+    
+  https://github.com/IU-Capstone-Project-2025/EasyTravel/commit/64b1a846560f63a84ddf3d85dc047af227b2ae53
 
 * **Vlad Galkin:**
 
@@ -98,6 +100,9 @@ We conducted additional experiments comparing different embedding models:
     * Enhanced the frontend (backend integration).
     * Implemented the save-recommendations feature.
     * Added a profile page.
+  
+  https://github.com/IU-Capstone-Project-2025/EasyTravel/commit/2b809b9ef85d451dde3c8482134d2e9ae7ba67d2
+  https://github.com/IU-Capstone-Project-2025/EasyTravel/commit/15ad0fae25442a9f5f4fb7afc9caf14e33aef380
 
 ---
 
