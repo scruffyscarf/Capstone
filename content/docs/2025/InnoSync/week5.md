@@ -296,7 +296,7 @@ Faced challenges integrating the ML model with the backend due to inconsistencie
     - Configured **NGINX reverse proxy**, **Let's Encrypt SSL**, and domain routing.
     - Managed **Docker Compose setup** for PostgreSQL, Go backend, and Next.js frontend.
     - Ensured **persistent volumes, health checks, and network isolation** for services.
-    [View Commit](https://github.com/IU-Capstone-Project-2025/InnoSync/commit/82e8c0a5dbf28225d61047519faea1016c71dcd7)
+    [View Commit](https://github.com/IU-Capstone-Project-2025/InnoSync/commit/0ee0b73b6b361728de14c32841a67a9dbd6490d9)
 
 - **Gurbanberdi Gulladyyev:**
     - Work on resolving the integration issue between the backend and the ML model, specifically ensuring the correct request format and response handling between services.
