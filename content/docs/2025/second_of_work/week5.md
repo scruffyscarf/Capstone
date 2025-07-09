@@ -80,8 +80,12 @@ This ensures that both developers and testers can easily navigate the codebase a
 ## Individual contribution of each participant
 
 Ivan Chabanov:
-
--
+- Added tests for project (sql, entities)
+- Added Database Logic
+- Added activity method on mobile
+`https://github.com/IU-Capstone-Project-2025/gym-genius/commit/daa9bdb12066c43c207f504450bcbdabe61c018d
+https://github.com/IU-Capstone-Project-2025/gym-genius/commit/ec94804813300d7560910f0e6e17e3617937fe7d
+https://github.com/IU-Capstone-Project-2025/gym-genius/pull/35/
 
 Aleksandr Mikhailov:
 - Add method to get users with pagination
