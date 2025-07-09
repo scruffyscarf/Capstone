@@ -64,11 +64,21 @@ User 3: IT Support Technician (Kazan Federal University)
 
 ## Individual contribution of each participant
 
-*...*
+Paramon:
+- Added [options to select log formats](https://github.com/IU-Capstone-Project-2025/MLTD/commit/36d164a7f22a03f9859b6e25a64e71200658e195) in the web interface and API.
+- Updated [setup documentation](https://github.com/IU-Capstone-Project-2025/MLTD/commit/d9c54090c72908ad81a26f3d6883bcccbe0cea1a) for running the application.
+- Wrote the weekly commitments and plans for next week in the [report]().
+
+Bulat:
+- Created parser and ML model for the [MAC log format](https://github.com/IU-Capstone-Project-2025/MLTD/commit/6dca6e3085bf5513f79de822270ba2a457275ec1).
+- Wrote most of the [report](https://github.com/PYP2205/MLTD/pull/6).
 
 ## Plan for Next Week
-
-*...*
+Next week we have plans to:
+- Make a new model and parser for Windows logs.
+- Test the system for any potential bugs.
+- Improve the web user inferface.
+- Improve HDFS model performance.
 
 ## Confirmation of the code's operability
 
