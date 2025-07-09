@@ -70,7 +70,11 @@ Based on user testing, we identified the following issues:
 
 ### Implemented features based on feedback
 
-All features and bugs sayed by user now started to implement/fix. In one week we planed to be ready with all of this issues.
+All features and bugs founded by user now started to implement/fix. In one week.
+
+ We had anticipated that we would have been prepared for all of these issues. Based on the feedback we have received, we are currently addressing the issue with JSON in our AI chat. The AI is no longer sending JSON to you, now it correctly add the tasks, but rather sending a message indicating which tasks have not yet been added.
+
+The reason for the AI not completing tasks and adding them back to your calendar on time was due to time zone differences. We need to instruct the AI to use the user's preferred time zone for accurate task completion. This issue will be addressed promptly as it is not considered a critical matter.
 
 ### Performance & Stability
 
@@ -78,7 +82,7 @@ We noticed significant slowdowns after 45–60 chat messages due to growing chat
 
 ### Documentation
 
-Readme.md explain how to run Ego.AI in localhost. But Ego.AI now is hosted so we can edit part with localhost like optional.
+Readme.md explain how to run Ego.AI in localhost. But Ego.AI now is hosted so we can edit part with starting in localhost like optional.
 
 ### ML Model Refinement
 
@@ -88,9 +92,6 @@ We applied improvements to AI behavior:
 - Implemented chat history compression logic for better memory and speed balance
 - Added post-processing checks to ensure safe calendar entries
 
-Future plans:
-- Test with more diverse user scenarios
-- Introduce fallback models for structured output failure cases
 
 # Weekly commitments
 
@@ -99,7 +100,7 @@ Future plans:
 | Team Member          | Key Contributions | Links |  
 |----------------------|-------------------|-------|  
 | **Dmitriy Ryazanov** | Create eondpoints for profile page|  [github commit](https://github.com/IU-Capstone-Project-2025/Ego_AI/commit/42070176f5c6f89fcdab45636a082dc7a71e3bechttps://github.com/IU-Capstone-Project-2025/Ego_AI/commit/13c83615a747ae41929b01730817055337fe5040) |  
-| **Diana Tsoi**       |Integrate recomendations page for code frontend architecture| [github commit]() |  
+| **Diana Tsoi**       |Integrate recomendations page for code frontend architecture| [github commit](https://github.com/IU-Capstone-Project-2025/Ego_AI/commit/e00548ef0b4f1c9b7526f22fcf8e79e55d7b75ba) |  
 | **Stepan Sarantsev** |improve and fix endpoint for geo position recomendations and for weather| [github commit](https://github.com/IU-Capstone-Project-2025/Ego_AI/commit/13c83615a747ae41929b01730817055337fe5040) |  
 | **Andrey Zhdanov**   |AI improvements, create more base promts in create,add or update task| [github commit](https://github.com/IU-Capstone-Project-2025/Ego_AI/commit/64b7834fc257c8d787521c0d7bb28e9118ab132c) |  
 | **Artyom Lapin**     |Change deployment method, now deployment work with SSH keys| [github commit](https://github.com/IU-Capstone-Project-2025/Ego_AI/commit/e9ee79c0cfa68c270e4e1117ffc4168ad92fc46a) |  
