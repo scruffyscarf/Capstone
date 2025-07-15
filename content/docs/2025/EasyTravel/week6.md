@@ -67,11 +67,14 @@ https://drive.google.com/file/d/1DY7Ny9v5GjEwwwC2ug1XtN7rus8WGT2i/view?usp=shari
 
     * Redesigned authentication pages, simplified interface, and removed unnecessary buttons.
     * Implemented map view for places, saving to favorites, and a favorites page.
+    * Added change profile functionality      
+      https://github.com/IU-Capstone-Project-2025/EasyTravel/commit/3b3fcfdc94f54d40775fd7fd37760545b5395862
 
 * **Vlad – frontend:**
 
     * Added filter by interests on the recommendations page.
     * Redesigned interface: removed redundant elements, implemented profile editing, and tags on pages.
+      https://github.com/IU-Capstone-Project-2025/EasyTravel/commit/1ac655163f5f734dfe2da89e54631a0ae995bf34
 
 ## Plan for Next Week
 
