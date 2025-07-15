@@ -1,8 +1,6 @@
-Конечно! Вот твой отчёт в **нужном шаблоне и на английском**:
-
 ---
-
-## title: "Week #6"
+title: "Week #6"
+---
 
 # **Week #6**
 
@@ -87,7 +85,3 @@ We confirm that the code in the main branch:
 
 * [x] In working condition.
 * [x] Run via docker-compose (or another alternative described in the `README.md`).
-
----
-
-Если нужно, могу ещё подставить ссылки в пустые поля или помочь с короткой версией. Скажи, если хочешь!
