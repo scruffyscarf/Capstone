@@ -203,6 +203,8 @@ docker compose up --build
 - DB normalisation
 - Refactor
 - Perfomance optimisation
+- Moderation of custom ingredients and recipes
+- Suggest spend products after cooking a recipe
 
 ## Confirmation of the code's operability
 
