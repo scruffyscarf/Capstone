@@ -63,6 +63,9 @@ https://drive.google.com/file/d/1DY7Ny9v5GjEwwwC2ug1XtN7rus8WGT2i/view?usp=shari
     * Implemented user profile update functionality.
     * Added endpoint for saving and retrieving user’s favorite places.
 
+    https://github.com/IU-Capstone-Project-2025/EasyTravel/commit/616a8b565feda6d9f9cb6bfc7f3408ac79ead589
+    https://github.com/IU-Capstone-Project-2025/EasyTravel/commit/604d6f5422022813191c424e32540d1204fff90b
+
 * **Said – frontend:**
 
     * Redesigned authentication pages, simplified interface, and removed unnecessary buttons.
