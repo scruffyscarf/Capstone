@@ -52,7 +52,7 @@ Bulat Sharipov: Managed team work, distributed tasks, backend development, wrote
 Danil Fathutdinov: Created ML class for determining the outfit class  
 Dinar Yakupov: Updated frontend pages, fixed bugs and introduced optimizations  
 Remal Gareev: Improved CI & CD. Fixed bugs and introduced optimizations in the backend.  
-Artyom Grishin: Performed backend development and product design
+Artyom Grishin: Performed backend development and product design ([link](https://www.notion.so/Product-Design-for-week-6-232a795c445f8015af78dc284ffcc368?source=copy_link))
 
 ## **Plan for Next Week**
 
@@ -67,3 +67,4 @@ We confirm that the code in the main branch:
 
 - In working condition.  
 - Run via docker-compose (or another alternative described in the README.md).
+
