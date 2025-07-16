@@ -137,7 +137,9 @@ https://github.com/IU-Capstone-Project-2025/styleU/commit/845ee391018db7d243f324
 7) Rokkel Maria - write personal page in frontend
 
 
-https://github.com/IU-Capstone-Project-2025/styleU/commit/8ab4c58c89f4309f769760cbf444ffc8609d575c
+https://github.com/IU-Capstone-Project-2025/styleU/commit/c6e1bc1038ed5b2e7cf9701c5fa36805fc68a674
+
+https://github.com/IU-Capstone-Project-2025/styleU/commit/9b63a1d7e1f26ff221590b4ea7f5db402989c235
 
 
 ## 3. Plan for Next Week
