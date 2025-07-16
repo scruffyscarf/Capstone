@@ -144,7 +144,8 @@ Everything is orchestrated using Docker Compose. The web server is Nginx, which 
 
 - **Grigorii Belyaev**:
     - Improved mobile search input and fixed minor UI issues on the home page (duplicate sign-in button) [Link to PR](https://github.com/IU-Capstone-Project-2025/Recommendation-System/pull/89)
-
+    -  Unified status case and fix comment word-break [Link to PR](https://github.com/IU-Capstone-Project-2025/Recommendation-System/pull/86)
+    -  Hided 3D model and adapt auth pages for mobile [Link to PR](https://github.com/IU-Capstone-Project-2025/Recommendation-System/pull/85)
 
 - **Peter Zavadskii:**
     - Documented the endpoints in Swagger [Link to PR](https://github.com/IU-Capstone-Project-2025/Recommendation-System/pull/93)
