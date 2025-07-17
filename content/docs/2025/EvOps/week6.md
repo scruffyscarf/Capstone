@@ -198,10 +198,14 @@ TanStack Router.
 
 ### Setup Instructions
 
+Prerequisites: we assume, you don’t have any Docker volumes or build cache that
+may collide with our application. Also, we expose ports `3000`, `5432`, `8080`,
+`9000`, and `9090`.
+
 1. Clone the repository and enter its directory:
 
 - ```shell
-  git clone https://github.com/IU-Capstone-Project-2025/evops.git
+  git clone --recurse-submodules https://github.com/IU-Capstone-Project-2025/evops.git
 
   cd evops/
   ```
@@ -226,6 +230,11 @@ The website should then be available on
 
 The back end should also be accessible on
 [http://localhost:8080](http://localhost:8080).
+
+Note that service communication is assumed to take place on your local machine
+via the HTTP protocol. Web-browsers may apply CORS restrictions. Make sure your
+browser settings don’t interfere (you may want to use an extension such as CORS
+Unblock).
 
 ## Presentation Draft
 
